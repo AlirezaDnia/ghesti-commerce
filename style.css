@@ -1,0 +1,15 @@
+.ali{
+    color: red;
+}
+.ghc-table table{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    text-align: right;
+    margin-top: 2rem;
+  }
+  .ghc-table th{
+    display: flex;
+    justify-content: space-between;
+  }
